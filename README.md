@@ -9,7 +9,7 @@ It was built to showcase the hand-driven interaction model designed by Microsoft
 - Support for Oculus Link on Quest with controllers, which means rapid iteration without builds.
 - Full support for any interaction in the MRTK designed to work for HoloLens 2.
 
-# unity version
+# Unity version
 - Unity 2019.4.12f1+ LTS
 
 # Supported target devices
