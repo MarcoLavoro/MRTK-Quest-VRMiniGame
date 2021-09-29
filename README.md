@@ -47,8 +47,8 @@ If inside the Asset folder you will find one of these files or folders:
 Then when these files are not present
 
 Run with Administrator permission:
-    - On Windows run the bat External/createSymlink.bat by double-clicking it. 
-    - On OS X execute the shell script via "./createSymlink.sh".
-    This will link the MRTK folders cloned via the submodule into the project.
+        - On Windows run the bat External/createSymlink.bat by double-clicking it. 
+        - On OS X execute the shell script via "./createSymlink.sh".
+        This will link the MRTK folders cloned via the submodule into the project.
     
 Good work!
