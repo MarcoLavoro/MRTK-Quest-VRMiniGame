@@ -37,10 +37,10 @@ MRTK will be located in your **External** folder.
 It **NEEDED** to be imported to let the project work
 
 If inside the Asset folder you will find one of these files or folders:
-MRTK
-MRTK.meta
-MixedRealityToolkit.Generated
-MixedRealityToolkit.Generated.meta
+- MRTK
+- MRTK.meta
+- MixedRealityToolkit.Generated
+- MixedRealityToolkit.Generated.meta
 
 **DELETE** these files.
 
