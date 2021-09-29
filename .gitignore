@@ -11,13 +11,14 @@
 /[Mm]emoryCaptures/
 
 /[Aa]ssets/MRTK
-/[Aa]ssets/MRTK.meta
 /[Aa]ssets/MixedRealityToolkit.Generated/
-/[Aa]ssets/MixedRealityToolkit.Generated.meta
-
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+
+# Also not include this
+/[Aa]ssets/MRTK.meta
+/[Aa]ssets/MixedRealityToolkit.Generated.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
