@@ -27,7 +27,7 @@ Take all the desserts from around you and put them on the plate in front of you,
 There is a way to let people bend more or less?
 - Yes! the level is designed to let you move the: front, side left, side right, the roof of the level.
 
-There is a way to let people interact only with some object.
+There is a way to let people interact only with some object?
 - Yes! you have only to change the code to not generate randomly the desserts list
 
 ## SETUP
