@@ -10,6 +10,12 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+/[Aa]ssets/MRTK
+/[Aa]ssets/MRTK.meta
+/[Aa]ssets/MixedRealityToolkit.Generated/
+/[Aa]ssets/MixedRealityToolkit.Generated.meta
+
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
