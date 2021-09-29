@@ -19,7 +19,7 @@ It was built to showcase the hand-driven interaction model designed by Microsoft
 # How to play
 The game is designed to be played on a couch. (sit position)
 Press play on the main menu, then take a look at the panel in front of you.
-On the panel, there will be some desserts.
+On the blue panel in front of you, there will be some desserts.
 Take all the desserts from around you and put them on the plate in front of you, then press the big blue button under the plate.
 
 
