@@ -35,16 +35,20 @@ There is a way to let people interact only with some object.
 ### Unity Setup
 MRTK will be located in your **External** folder.
 It **NEEDED** to be imported to let the project work
+
 If inside the Asset folder you will find one of these files or folders:
 MRTK
 MRTK.meta
 MixedRealityToolkit.Generated
 MixedRealityToolkit.Generated.meta
 
-**DELETE** these files and then: 
+**DELETE** these files.
+
+Then when these files are not present
+
 Run with Administrator permission:
     - On Windows run the bat External/createSymlink.bat by double-clicking it. 
     - On OS X execute the shell script via "./createSymlink.sh".
     This will link the MRTK folders cloned via the submodule into the project.
     
-    Good work!
+Good work!
