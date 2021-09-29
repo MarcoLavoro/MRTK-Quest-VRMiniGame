@@ -29,3 +29,22 @@ There is a way to let people bend more or less?
 
 There is a way to let people interact only with some object.
 - Yes! you have only to change the code to not generate randomly the desserts list
+
+## SETUP
+
+### Unity Setup
+MRTK will be located in your **External** folder.
+It **NEEDED** to be imported to let the project work
+If inside the Asset folder you will find one of these files or folders:
+MRTK
+MRTK.meta
+MixedRealityToolkit.Generated
+MixedRealityToolkit.Generated.meta
+
+**DELETE** these files and then: 
+Run with Administrator permission:
+    - On Windows run the bat External/createSymlink.bat by double-clicking it. 
+    - On OS X execute the shell script via "./createSymlink.sh".
+    This will link the MRTK folders cloned via the submodule into the project.
+    
+    Good work!
